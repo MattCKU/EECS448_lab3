@@ -1,0 +1,24 @@
+body 
+{
+    background-color: darkblue;
+    
+    color: white;
+}
+
+blockquote
+{
+    
+    background-color: darkred;
+    font-family: arial;
+    color: white;
+}
+
+blockquote:hover{
+    background-color: black;
+}
+a
+{
+    
+    color:lightblue;
+    font-size: 30px;
+}
